@@ -1,0 +1,22 @@
+{
+  "name": "ate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ittce/ate.git"
+  },
+  "author": "ce.tian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ittce/ate/issues"
+  },
+  "homepage": "https://github.com/ittce/ate#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
